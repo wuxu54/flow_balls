@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\drawable-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_normal.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\drawable-hdpi\\ic_more_normal.png"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_pressed.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\drawable-hdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_back_normal.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    }
+]

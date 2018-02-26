@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\work_project\\Flow_ball\\flow_balls\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

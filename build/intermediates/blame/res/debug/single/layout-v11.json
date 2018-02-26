@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5964a54f82dd6f847449899fdfd8d9d79a762347\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5964a54f82dd6f847449899fdfd8d9d79a762347\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5964a54f82dd6f847449899fdfd8d9d79a762347\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5964a54f82dd6f847449899fdfd8d9d79a762347\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5964a54f82dd6f847449899fdfd8d9d79a762347\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\work_project\\Flow_ball\\flow_balls\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5964a54f82dd6f847449899fdfd8d9d79a762347\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

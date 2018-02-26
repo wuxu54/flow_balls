@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:6:5-19:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\6c1e227cd60d89573f28ec35f742631c709baad4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\c4a933537ce5a44352e2f99d6885e6a6536654a3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\5964a54f82dd6f847449899fdfd8d9d79a762347\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ba161024fb5258f6eb42fa7ea4e56e4cf550bae4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f9c5d019c19a37f541d8234072b5ce0e6ef7c843\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\05b71c74610e2c682d32d94db0f0ce9edc330a05\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\d0cc3c82557df1020d46e1aa98080d098b59c752\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\599e978638a6af56e5517fe20e8e228d2f5e9de2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\94313c00defd7ceae9d4586f6833bb90b42dc46a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\544838e9b002b50e364d7b4e6bb46f190111d222\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\4c97704a3fe5777ddbea70255c2d57f018c861e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\a86787da61b9fcba835d7906ea3628719b2fd8aa\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:7:9-41
+	android:supportsRtl
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:8:9-35
+	android:roundIcon
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:7:42-87
+	android:allowBackup
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:6:18-44
+	android:icon
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:6:45-79
+	android:theme
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:8:36-67
+activity#vm.activity.MainActivity
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:9:9-13:20
+	android:name
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:9:19-47
+intent-filter#android.intent.action.MAIN
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:10:13-12:29
+action#android.intent.action.MAIN
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:11:25-66
+activity#vm.activity.FlowActivity
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:14:9-17:15
+	android:fitsSystemWindows
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:16:13-60
+	android:name
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:14:19-47
+service#vm.service.FlowBallService
+ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml:18:18-59
+uses-sdk
+INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\6c1e227cd60d89573f28ec35f742631c709baad4\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8d4bc4ce93f75914b7aac7216cdb1ceeaadcfbd4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\c4a933537ce5a44352e2f99d6885e6a6536654a3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\5964a54f82dd6f847449899fdfd8d9d79a762347\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ba161024fb5258f6eb42fa7ea4e56e4cf550bae4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f9c5d019c19a37f541d8234072b5ce0e6ef7c843\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\05b71c74610e2c682d32d94db0f0ce9edc330a05\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\d0cc3c82557df1020d46e1aa98080d098b59c752\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\599e978638a6af56e5517fe20e8e228d2f5e9de2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\94313c00defd7ceae9d4586f6833bb90b42dc46a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\544838e9b002b50e364d7b4e6bb46f190111d222\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\4c97704a3fe5777ddbea70255c2d57f018c861e5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\a86787da61b9fcba835d7906ea3628719b2fd8aa\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\6c1e227cd60d89573f28ec35f742631c709baad4\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+		INJECTED from E:\work_project\Flow_ball\flow_balls\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\6c1e227cd60d89573f28ec35f742631c709baad4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8d4bc4ce93f75914b7aac7216cdb1ceeaadcfbd4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\c4a933537ce5a44352e2f99d6885e6a6536654a3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\5964a54f82dd6f847449899fdfd8d9d79a762347\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\ba161024fb5258f6eb42fa7ea4e56e4cf550bae4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f9c5d019c19a37f541d8234072b5ce0e6ef7c843\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\05b71c74610e2c682d32d94db0f0ce9edc330a05\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\d0cc3c82557df1020d46e1aa98080d098b59c752\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\599e978638a6af56e5517fe20e8e228d2f5e9de2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\94313c00defd7ceae9d4586f6833bb90b42dc46a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\544838e9b002b50e364d7b4e6bb46f190111d222\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\4c97704a3fe5777ddbea70255c2d57f018c861e5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\6c1e227cd60d89573f28ec35f742631c709baad4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\6c1e227cd60d89573f28ec35f742631c709baad4\output\AndroidManifest.xml:26:9-47
